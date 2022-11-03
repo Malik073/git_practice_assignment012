@@ -1,3 +1,4 @@
+
 function checkPrime(number){
     let factor=0;
     
